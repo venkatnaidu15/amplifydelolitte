@@ -1,0 +1,12 @@
+{
+  "resourceName": "myowndb",
+  "policyUUID": "8897f406",
+  "bucketName": "amplifynewbucket1521",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

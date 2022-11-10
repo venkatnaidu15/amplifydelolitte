@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "amplifydelolitte627e98d6": {}
+      },
+      "api": {
+        "amplifydelolitte": {}
+      },
+      "storage": {
+        "myowndb": {}
       }
     }
   }
